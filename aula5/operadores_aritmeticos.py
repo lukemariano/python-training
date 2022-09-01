@@ -1,0 +1,3 @@
+"""
+Duas barras = divisão inteira --> //
+"""
